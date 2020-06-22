@@ -12,10 +12,12 @@ S3575010@rmit.edu.au
 Personal Info:
 Working full time at Air Menzies International – Freight forwarding company. Currently learning each section of the business to better my chances for promotion and to eventually move into a management position. Looking to study IT to broaden my knowledge base and to be more employable and valuable within a team that may lack IT knowledge. I hope to one day be in IT sales and/or a representative for a team who may lack leadership or charisma – to help convey important technological advances enabling me to be the link between the brains and the ‘front office’ of a company.
 
-Interest in IT:
+<bold> Interest in IT:
+
 My interest in IT has been an extensive hobby and fascination of mine. Since I was young, I was intrigued with games, operations and transfer of data which was all made possible through the use of technology. Coupled with the ability to now study remotely – RMIT was the front runner for me to study this degree as my two of my cousins have studied a Bachelor’s of Information Technology and held RMIT to a very high standard for both theory and practical aspects throughout. I am fascinated by the potential advantages that IT can have on a business and/or personal circumstances as well as automation of tasks to save time, increase efficiency and boost profits/free time – depending on the purpose.
 
-IT Experience 
+IT Experience:
+
 I have little to no Experience in an IT role as I have never been placed in a team which practices such. In most work places that I have worked at – the IT team was qualified and not interested in unqualified people who saw IT as a hobby rather than a profession. Therefore, I was unable to move into the IT field/industry. My IT experience begins and ends in a gaming environment and small amounts of programming to automate certain games and websites.
 
 
