@@ -105,4 +105,5 @@ The skills required in order to operate this program are very minimal – It onl
 
 
 Outcome
+
 With success, the outcome will be to increase overall efficiency, profits and work ethic. This will also increase accuracy to limit wrong processing of docs or credits required. Along with efficiency, the company will be able to keep a closer eye on sales targets and the customer database to be able to prioritize customer needs and customer rate files (to allow special rate agreements). 
